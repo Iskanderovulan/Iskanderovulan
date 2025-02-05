@@ -1,64 +1,97 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg"  />
+  <img height="300" width="600" src="https://t3.ftcdn.net/jpg/03/18/60/62/360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg" />
 </div>
 
 ###
 
-<h1 align="center">Hello, My name is Ulan!</h1>
+<h1 align="center">👋 Hello, I'm Ulan!</h1>
 
 ###
 
-###
-
-<h3 align="left">About me</h3>
+<h3 align="center">🚀 Front-End Developer | React | TypeScript | Next.js | Testing</h3>
 
 ###
 
-<p align="left">As a Front-End Developer, I design and develop web applications that automate and streamline business processes. I use the latest front-end technologies to create user-friendly and efficient interfaces. With a focus on detail and quality, I build digital products that improve operational efficiency and user satisfaction.</p>
+## 📌 About Me
 
-###
+I am a passionate **Front-End Developer** specializing in modern JavaScript technologies. My focus is on **building scalable, maintainable, and high-performance web applications**. I use **React, TypeScript, and Next.js** to create user-friendly interfaces that enhance business operations and improve user experience.
 
-Professional Summary
+I adhere to the **Feature-Sliced Design (FSD) methodology**, ensuring that my projects remain well-structured and easy to scale. I'm also proficient in **testing strategies**, covering everything from **unit and integration tests** to **E2E (Cypress) and UI testing with Storybook**.
 
-<ul>
-  <li><strong>Front-End Expertise:</strong> Skilled in JavaScript, React, and TypeScript, with a strong focus on developing user-friendly and efficient web applications.</li>
-  </br>
-  <li><strong>Feature-Sliced Design:</strong> Utilize Feature-Sliced Design methodology to create maintainable and scalable applications, ensuring a clear and organized codebase.</li>
-    </br>
-  <li><strong>Commercial Project Experience:</strong> Extensive experience in delivering high-quality commercial projects, enhancing user experience and driving business success.</li>
-    </br>
-  <li><strong>Modern Technologies:</strong> Proficient in modern front-end technologies, capable of handling complex requirements and delivering exceptional results.</li>
-    </br>
-  <li><strong>Continuous Learning:</strong> Committed to continuous learning and staying updated with the latest industry trends, enabling the implementation of cutting-edge solutions.</li>
-    </br>
-  <li><strong>Attention to Detail:</strong> Known for a meticulous approach to development, ensuring high standards of quality and functionality in every project.</li>
-</ul>
+---
 
-<h3 align="left">🛠 HARD SKILLS:</h3>
+## 🏆 **Professional Summary**
 
-###
+- **Dashboard & Admin Panel Development** – Proven experience in **building dashboards, admin panels, and CRM systems**, optimizing workflows for **business efficiency**.
+- **Front-End Expertise** – Deep knowledge of **JavaScript (ES6+), TypeScript, React, and Next.js**, focusing on **scalable architectures** and **performance optimization**.
+- **Feature-Sliced Design (FSD)** – Implementing **FSD methodology** for structured and maintainable applications.
+- **Testing Proficiency** – Experience in **unit, integration, and E2E testing** using **Jest, React Testing Library, Cypress, and Storybook** for UI validation.
+- **Modern UI Development** – Skilled in **Material UI, Ant Design, Tailwind CSS, and Styled Components** for modern and responsive UIs.
+- **API Integration** – Experience working with **RESTful APIs** to build dynamic web applications.
+- **State Management** – Expertise in **Redux Toolkit, Zustand, and React Query** for efficient state management.
+- **Continuous Learning** – Always keeping up with **the latest trends** in front-end development to improve user experience.
 
+---
+
+## 🛠 **Tech Stack & Tools**
+
+### **Languages & Frameworks**
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" height="40" alt="Next.js" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
-    <img width="12" />
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/768px-Typescript_logo_2020.svg.png" height="40" alt="typescript logo"  />
-        <img width="12" />
-      <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40" alt="redux logo"  />
-           <img width="12" />
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" height="40" alt="nodejs logo"  />
-               <img width="12" />
-      <img src="https://feature-sliced.design/img/brand/logo-primary.png" height="40" alt="fsd logo"  />
-
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" height="40" alt="Redux Toolkit" />
+  <img width="12" />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png?f=webp" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://feature-sliced.design/img/brand/logo-primary.png" height="40" alt="Feature-Sliced Design" />
 </div>
 
-###
+### **Testing & UI Development**
+<div align="left">
+  <img src="https://testing-library.com/img/octopus-64x64.png" height="40" alt="React Testing Library" />
+  <img width="12" />
+  <img src="https://www.cypress.io/cypress_logo_social.png" height="40" alt="Cypress" />
+  <img width="12" />
+  <img src="https://jestjs.io/img/jest.svg" height="40" alt="Jest" />
+  <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhWUofwvHCLF52jHQw24VIlbHVPhwLlbhGw&s" height="40" alt="Storybook" />
+</div>
+
+### **DevOps & Build Tools**
+<div align="left">
+  <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="Webpack" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/vite/646CFF" height="40" alt="Vite" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="Docker" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git" />
+</div>
+
+---
+
+## 🔥 **What I Bring to the Table**
+✅ **Testing** – Strong focus on ensuring application **stability** and **bug-free releases**  
+✅ **Performance Optimization** – Writing **efficient** and **optimized** React applications  
+✅ **Scalability & Architecture** – Experience in **monorepos**, **modular design**, and **Feature-Sliced Design (FSD)**  
+✅ **Storybook-Driven UI Development** – Isolated **component-driven development** for reusable UI elements  
+✅ **Responsive Design** – Building web applications that work seamlessly on **mobile and desktop**  
+✅ **State Management Expertise** – Deep understanding of **Redux Toolkit, Zustand, and React Query**  
+✅ **Next.js Development** – Experience with **Next.js** for **SSR (Server-Side Rendering)**, **SSG (Static Site Generation)**, and **API Routes**  
+✅ **Backend Integration** – Experience working with **Node.js, Express, REST APIs**  
+
+---
+
+## 🌎 **Let's Connect!**
+💼 [LinkedIn](https://www.linkedin.com/in/ulan-iskanderov-400407227)  
+📧 [Email](iskanderovulan@gmail.com)  
+
+🚀 **Always open to learning, collaborating, and building amazing projects together!**
